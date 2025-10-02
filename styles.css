@@ -109,6 +109,7 @@ nav a:hover{
 
 main{
 	padding: 2rem 1rem;
+	
 }
 
 section{
@@ -125,7 +126,7 @@ p{
 	/* add an indent on the first line of 2rem */
 	text-indent: 2rem;
 	/* center those paragraphs (not the text) on the page */
-	float: initial;
+	margin: 0 auto;
 }
 
 a{
